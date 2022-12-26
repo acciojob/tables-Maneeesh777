@@ -1,2 +1,15 @@
-
+*{
+    margin: 0;
+    padding: 0  ;
+}
 /* Your CSS Code here. */
+#tot{
+    text-align: end;
+}
+.last{
+    width: 100px;
+}
+#title{
+    color: #C3D0D4;
+}
+/* #C3D0D4 */
